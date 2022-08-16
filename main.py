@@ -38,5 +38,5 @@ def get_logger(
 if __name__ == "__main__":
     my_logger = get_logger()
     my_logger.info("\n\n**********\n\n")
-    my_logger.info("routes:")
+    fun()
 
